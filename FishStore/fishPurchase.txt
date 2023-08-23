@@ -1,0 +1,3 @@
+FishOrder{number=10, typeFish=Goldfish, rewardCard=true}
+FishOrder{number=7, typeFish=Betta, rewardCard=true}
+FishOrder{number=5, typeFish=Clowfish, rewardCard=true}
